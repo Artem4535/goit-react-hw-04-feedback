@@ -1,0 +1,16 @@
+.list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  align-items: center;
+  justify-content: center;
+}
+
+.btn {
+  display: block;
+  width: 80px;
+  padding: 5px 0;
+  background-color: burlywood;
+  border: none;
+  border-radius: 5px;
+}
